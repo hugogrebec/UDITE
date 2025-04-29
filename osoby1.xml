@@ -18,4 +18,12 @@
         <rocnik>1</rocnik>
         <pohlavi>žena</pohlavi>
     </osoba>
+    <osoba osCislo='R1247'>
+        <jmeno>Hugo</jmeno>
+        <prijmeni>Grebec</prijmeni>
+        <stav>studuje</stav>
+        <obor>IT</obor>
+        <rocnik>1</rocnik>
+        <pohlavi>muž</pohlavi>
+    </osoba>
 </osoby>
