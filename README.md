@@ -1,0 +1,1 @@
+pridavam README popisek
